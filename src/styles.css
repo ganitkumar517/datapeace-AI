@@ -1,0 +1,62 @@
+.App {
+  font-family: sans-serif;
+  margin-left: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+table {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 70%;
+  margin-top: 20px;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.p-input-icon-right {
+  margin-bottom: 20px;
+}
+.p-input-icon-right input {
+  padding: 10px;
+}
+.App{
+display: grid;
+grid-template-columns: 1000px 100px;
+}
+.modal{
+  margin-top: 100px;
+}
+body{
+  background-color: orange;
+  color:  black;
+  
+}
+table{
+  border: solid 1px black;
+}
+td{
+  border: solid 1px black;
+
+}
+th{
+  border: solid 1px black;
+
+}
+input{
+  border: solid 1px black;
+  border-radius: 5px;
+}
